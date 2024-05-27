@@ -69,30 +69,6 @@ TaxSavvy is a simple web application that allows users to input their income and
 |                                   |                                            | Rs. 12,00,000 – Rs. 15,00,000: 20%        |
 |                                   |                                            | Above Rs. 15,00,000: 30%                  |
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-
-    ```sh
-    git checkout -b feature-branch
-    ```
-
-3. Make your changes.
-4. Commit your changes:
-
-    ```sh
-    git commit -m "Add some feature"
-    ```
-
-5. Push to the branch:
-
-    ```sh
-    git push origin feature-branch
-    ```
-
-6. Create a pull request.
-
 
 ## Contact
 
